@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Amir! 👋
 
-<!--
-**amirdaaee/amirdaaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Python enthusiast, and I love diving into the worlds of Machine Learning, Biotech, and more. When I'm not coding, you can find me playing the violin, rocking out to some music, pondering over philosophical questions, or gazing at the stars.
 
-Here are some ideas to get you started:
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirdaaee&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaaee&layout=compact&langs_count=6&theme=transparent&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5) 
+
+## 🔧 Technologies & Tools
+
+|  	|  	|   	|   	| |
+|-----	|:-----:	|:---:	|:---:	|:---:	|
+| Language 	| ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) 	|  ![Golang](https://www.vectorlogo.zone/logos/golang/golang-icon.svg) 	|  ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) | ![js](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
+| Machine Learning | ![Tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg) | ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) | ![ONNX](https://avatars.githubusercontent.com/u/31675368?s=80&v=4)
+| Platform | ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg) | ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg) | ![gitlab](https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg) |
+
